@@ -16,10 +16,7 @@ const page = () => {
       >
         <Button>Logout</Button>
       </form>
-      <BookList
-        title="Borrow Books"
-        books={sampleBooks}
-      />
+      
     </>
   );
 };
